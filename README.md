@@ -1,2 +1,2 @@
 # TheOfficeNetflix
-An analysis of me and my siblings intake of The Office (NBC Comedy Sitcom) on Netflix
+An analysis of me and my siblings intake of The Office (NBC Comedy Sitcom) on Netflix. This exploratory data analysis project was done in January 2021, when The Office was removed from Netflix. The final product was a Python Markdown with some well placed GIFs packcaged up and sent to my siblings via email with their signficant others CCed to ensure full transparency on their viewing habits (whoops). 
